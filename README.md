@@ -9,7 +9,7 @@
 ## Developers in 4cc3ssD3n13d
 
 [@lib-Pluton](https://github.com/lib-Pluton) | [@SepulTura](https://github.com/SepulTura35)
---- |
+--- | ---
 ![@lib-Pluton](https://avatars.githubusercontent.com/lib-Pluton?s=150&v=1) | ![@SepulTura](https://avatars.githubusercontent.com/SepulTura35?s=150&v=1) 
 
 [@H4xu3lyn](https://github.com/dec-H4xu3lyn) | [@Qualwin](https://github.com/Qualwin) 
