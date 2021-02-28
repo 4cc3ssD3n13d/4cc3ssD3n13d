@@ -3,7 +3,7 @@
 
 #
 <p align="center">
-<img src="https://github.com/CodingForOurFuture/CodingForOurFuture/blob/main/images/hello.gif?raw=true" width=600 /></p>
+<img src="https://github.com/4cc3ssD3n13d/4cc3ssD3n13d/blob/main/images/hello.gif?raw=true" width=600 /></p>
 <br/><br/>
 
 ## Developers in 4cc3ssD3n13d
@@ -25,12 +25,12 @@
 
 #
 <p align="center">
-<img src="https://github.com/CodingForOurFuture/CodingForOurFuture/blob/main/images/pepe.gif?raw=true" width=600 /></p>
+<img src="https://github.com/4cc3ssD3n13d/4cc3ssD3n13d/blob/main/images/pepe.gif?raw=true" width=600 /></p>
 <br/><br/>
 
 
  <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=CodingForOurFuture/CodingForOurFuture) -->
-![ViewCount](https://views.whatilearened.today/views/github/CodingForOurFuture/views.svg)
+![ViewCount](https://views.whatilearened.today/views/github/4cc3ssD3n13d/views.svg)
 
 ## Our Skills
 <h3>
