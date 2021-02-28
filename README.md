@@ -9,7 +9,7 @@
 ## Developers in 4cc3ssD3n13d
 
 [@lib-Pluton](https://github.com/lib-Pluton)
----
+--- |
 
 ![@lib-Pluton](https://avatars.githubusercontent.com/lib-Pluton?s=150&v=1) 
 
