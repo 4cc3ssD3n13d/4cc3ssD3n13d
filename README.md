@@ -8,8 +8,8 @@
 
 ## Developers in 4cc3ssD3n13d
 
-![@lib-Pluton](https://github.com/lib-Pluton) | ![@SepulTura](https://github.com/SepulTura35) | ![@inc-Majdev](https://github.com/inc-Majdev) 
---- | --- | --- 
+[@lib-Pluton](https://github.com/lib-Pluton) | [@SepulTura](https://github.com/SepulTura35) | [@inc-Majdev](https://github.com/inc-Majdev) 
+--- | --- | ---
 
 ![@lib-Pluton](https://avatars.githubusercontent.com/lib-Pluton?s=150&v=1) | ![@SepulTura](https://avatars.githubusercontent.com/SepulTura35?s=150&v=1) | ![inc-Majdev](https://avatars.githubusercontent.com/inc-Majdev?s=150&v=1) 
 --- | --- | --- 
