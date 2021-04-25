@@ -12,9 +12,9 @@
 --- | ---
 ![@lib-Pluton](https://avatars.githubusercontent.com/lib-Pluton?s=150&v=1) | ![@SepulTura](https://avatars.githubusercontent.com/SepulTura35?s=150&v=1) 
 
-[@H4xu3lyn](https://github.com/dec-H4xu3lyn) | [@Qualwin](https://github.com/Qualwin) 
+[@H4xu3lyn](https://github.com/inc-Majdev) | [@Qualwin](https://github.com/Qualwin) 
 --- | ---
-![@H4xu3lyn](https://avatars.githubusercontent.com/dec-H4xu3lyn?s=150&v=1) | ![@Qualwin](https://avatars.githubusercontent.com/Qualwin?s=150&v=1) 
+![@H4xu3lyn](https://avatars.githubusercontent.com/inc-Majdev?s=150&v=1) | ![@Qualwin](https://avatars.githubusercontent.com/Qualwin?s=150&v=1) 
 
 
 [@xd-Shaggy](https://github.com/xd-Shaggy) | [@Lithe](https://github.com/lithellx)
